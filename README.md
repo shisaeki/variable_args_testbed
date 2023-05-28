@@ -1,2 +1,2 @@
-# variable_args_testbed
-Personal practice repository for testing variable argument behavior in C.
+# variadic_arguments_testbed
+Personal practice repository for testing variadic arguments behavior in C.
